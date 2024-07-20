@@ -1,9 +1,0 @@
-fastapi==0.95.1
-uvicorn==0.20.0
-sqlalchemy==2.0.31
-alembic
-pydantic
-jinja2
-fastapi-login
-python-dotenv
-passlib[bcrypt]
